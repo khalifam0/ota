@@ -1,0 +1,9 @@
+## ASCP v6.3 - rodin
+- initial build
+- Leica camera added
+- Support Bypass charging
+- OTA support
+- New DolbyUI
+- Build with Fenrir
+- included Revanced Manager ( YouTube & YouTube Music ) 
+- New Xiaomi Parts
