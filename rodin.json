@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": 1790108377,
+    "files": [
+      {
+        "filename": "ASCP-v6.3-rodin-UNOFFICIAL-20260922-2021.zip",
+        "os_patch_level": "2026-09-01",
+        "os_sdk_level": 37,
+        "sha256": "b355214cd9beb265d8b58e31620ed5deb8517f6da7c0705a503b1b4f2694707a",
+        "size": 4237038849,
+        "url": "https://ferrari.serverhive.in/nighty/ASCP-v6.3-rodin-UNOFFICIAL-20260922-2021.zip",
+        "ota_property_files": "payload_metadata.bin:5134:222668,payload.bin:5134:4237030300,payload_properties.txt:4237035492:156,apex_info.pb:2361:1581,care_map.pb:3989:1098,metadata:69:687,metadata.pb:824:1489"
+      }
+    ],
+    "type": "UNOFFICIAL",
+    "version": "6.3"
+  }
+]
