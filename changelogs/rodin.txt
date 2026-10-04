@@ -1,9 +1,14 @@
-## ASCP v6.3 - rodin
-- initial build
-- Leica camera added
-- Support Bypass charging
-- OTA support
-- New DolbyUI
-- Build with Fenrir
-- included Revanced Manager ( YouTube & YouTube Music ) 
-- New Xiaomi Parts
+## ASCP v6.3.3 - rodin
+• Latest Source Sync
+• Force disable MTE from the DT
+• Switched to User build ( best for stability )
+• Fully working OTA ( all upcoming updates can be flashed from system updater )
+• Removed Revanced Manager
+• Fixed some Leica Cam features
+• Fixed FOD light staying on after enrolling a new fingerprint
+• Fixed call volume not changing and staying on high
+• Fixed Xiaomi Parts crash after pressing volume buttons
+• Fixed FP calibration in Xiaomi Parts
+• Fixed CPU manual frequency limits in Xiaomi Parts
+• Fixed Discord screen share
+• Removed Reality Display Engine from Settings ( useless )
